@@ -25,6 +25,7 @@ h6 {
 
 h2 {
   color: #000;
+  color: #71c55d;
   font-weight: 600;
 }
 
@@ -575,7 +576,7 @@ section {
 }
 
 .separator {
-  color: #626262;
+  color: #e99532;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 300;
